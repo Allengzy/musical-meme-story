@@ -1,6 +1,4 @@
 This is my repo. -Zhengyang Guo (Allen)
-<<<<<<< HEAD
 This is my line. - George Knier
-=======
 This is my repo. -Michael He
->>>>>>> 861fe520068a157b30da09c2a20559f2020f41a2
+Hi everyone! I hope to have a great semester with you guys! - Kenneth Mui
