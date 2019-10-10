@@ -6,4 +6,5 @@ Hi everyone! I hope to have a great semester with you guys! - Kenneth Mui
 Once upon a time, there was a student who struggled a lot on how to use github.
 The student who struggled on GitHub learned how to use Github quickly.
 Now, that student can collaborate effecively with others and create impressive projects!
-Wow! This makes coding collaboration much easier!
+Wow! This makes coding collaboration much easier! 
+50 years later, the student forgot how to use github.
